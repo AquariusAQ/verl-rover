@@ -1,0 +1,20 @@
+{
+  "tokenizer": "/home/LLM/Qwen/Qwen3.5-9B",
+  "max_prompt_tokens_target": 20480,
+  "n_train": 2246,
+  "n_test": 0,
+  "overall": {
+    "count": 2246,
+    "min": 8854,
+    "max": 20483,
+    "mean": 17383.01914514693,
+    "median": 17978.0,
+    "p5": 11021,
+    "p25": 15100,
+    "p75": 20481,
+    "p95": 20483,
+    "p99": 20483,
+    "stdev": 3103.3808359587983
+  },
+  "n_truncated": 744
+}
